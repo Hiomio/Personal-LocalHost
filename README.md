@@ -2,9 +2,9 @@
   <img src="/assets/images/bilgecan_logo.png" alt="Bilgecan logo" width="200">
 </p>
 
-# Bilgecan – Open Source Local AI Platform
+# ForgeAI – Open Source Local AI Platform
 
-**Bilgecan** is a secure, flexible, and open-source AI platform that small and medium-sized companies and individual AI enthusiasts can run **on their own servers (self-hosted)**. It works with **local LLM** models through **Ollama**, without sending data to external services.
+**ForgeAI** is a secure, flexible, and open-source AI platform that small and medium-sized companies and individual AI enthusiasts can run **on their own servers (self-hosted)**. It works with **local LLM** models through **Ollama**, without sending data to external services.
 
 ---
 ## What can you do with Bilgecan?
@@ -74,14 +74,14 @@ Before installing, ensure you have the following tools installed:
 #### Option A — Download Release JAR (recommended)
 
 Go to:
-👉 https://github.com/mokszr/bilgecan/releases
+👉 https://github.com/Hiomio/Personal-Localhost/releases
 
-Download **bilgecan-\<version\>.jar**
+Download **ForgeAI-\<version\>.jar**
 
 #### Option B — Build from Source
 
 ```bash
-git clone https://github.com/mokszr/bilgecan.git
+git clone https://github.com/Hiomio/Personal-LocalHost.git
 cd bilgecan
 ./mvnw clean package -Pproduction 
 ```
@@ -329,36 +329,14 @@ You can use this example [docker-compose-example-with-bilgecan.yaml](assets/dock
 
 ---
 
-## Open-source & Independent Developer Project
-
-Bilgecan is fully open source and developed independently by **Murat Öksüzer**.
-
-If Bilgecan has been helpful and you’d like to support the project, even a small donation provides great motivation.  
-Every coffee means: new features, better documentation, and more educational videos.
-
----
-## Support the Project ☕
-
-If you’d like to support, you can buy me a coffee:
-
-<a href="https://www.buymeacoffee.com/muratoksuzer" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
-</a>
-
-If you can’t donate, no worries — starring the GitHub repo, sharing the project, or giving feedback also helps a lot. ❤️
-
----
-
 ## Contact Me
 
 I’d love to hear your thoughts, suggestions, and feedback about Bilgecan. You can reach me or follow the project through the links below:
 
 - 📧 **Email:** [muratoksuzer01@gmail.com](mailto:muratoksuzer01@gmail.com)
-- ⭐ **GitHub:** [Bilgecan Repository](https://github.com/mokszr/bilgecan)
-- ▶️ **YouTube:** [@muratoksuzer](https://www.youtube.com/@muratoksuzer)
-- 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/murat-%C3%B6ks%C3%BCzer-bb856644/)
-- 🕊️ **X (Twitter):** [@murat_dev01](https://x.com/murat_dev01)
-- 🌐 **Website:** [www.muratoksuzer.com](https://www.muratoksuzer.com/)
+- ⭐ **GitHub:** [ForgeAI Repository](https://github.com/Hiomio/Personal-LocalHost)
+- 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
+- 🌐 **Website:** [Hima](https://hima-portfolio-eight.vercel.app/)
 
 ---
 
