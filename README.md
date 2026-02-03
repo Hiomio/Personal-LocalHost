@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="/assets/images/bilgecan_logo.png" alt="Bilgecan logo" width="200">
-</p>
 
 # ForgeAI – Open Source Local AI Platform
 
